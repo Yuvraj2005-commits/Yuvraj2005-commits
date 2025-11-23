@@ -8,7 +8,7 @@
 📚 Currently learning **React, Node.js, MongoDB, and Machine Learning**  
 🧠 Exploring **Neural Networks, Linear Algebra, and ML concepts**  
 💬 Ask me about **Web Dev, MERN Stack, ML basics, and Project Ideas**  
-🌙 Fun Fact — *I debug faster after midnight.*  
+🌙 Fun fact — *I debug faster after midnight.*  
 
 ---
 
@@ -47,7 +47,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge)
 
-**AI / ML Libraries:**  
+**AI / ML Learning:**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
@@ -65,40 +65,30 @@
 | 📦 **CRUD Web App** | Create, update, delete items with database storage | React, MongoDB, Express |
 | 🧠 **ML Model (Learning Phase)** | Simple classification/regression experiments | Python, Pandas, Scikit-Learn |
 
-*More coming soon... 🚧*
+🛠 _More coming soon..._
 
 ---
 
-## 🧠 AI / ML Learning Roadmap (Current Progress)
-
-📌 **Checklist:**  
+## 🧠 AI / ML Learning Progress
 
 - [x] Python Basics  
 - [x] Numpy / Pandas  
 - [ ] Regression & Classification  
 - [ ] Neural Networks  
-- [ ] Deep Learning (TensorFlow/PyTorch)  
-- [ ] Deploy ML Models  
+- [ ] TensorFlow / PyTorch  
+- [ ] ML Model Deployment  
 
-📍 Goal: **Train and deploy my first working ML model before 2026 🎯**
-
----
-
-## 🎯 2025 Goals
-
-- 🏗 Build 10+ real-world projects  
-- 🤝 Collaborate on Open Source  
-- 🎓 Complete ML & DSA Roadmap  
-- 🚀 Deploy full-stack web applications  
-- 🤖 Build at least one AI-powered project  
+🎯 Goal: **Deploy first full ML project by 2026**  
 
 ---
 
-## 📜 Certificates _(Coming Soon)_
+## 🏅 Achievement & Certification
 
-🎓 Web Development  
-🎓 AI / ML Foundation  
-🎓 DSA Learning  
+> 🧾 **The Complete Full-Stack Web Development Bootcamp**  
+> 📍 Issued by **Udemy**  
+> 👨‍🏫 Instructor: *Dr. Angela Yu*  
+> 📅 Completed: **August 11, 2025**  
+> ⏱ Training Duration: **61.5 Hours**
 
 ---
 
@@ -121,5 +111,4 @@
 
 ---
 
-### ✨ _"Stay curious. Stay consistent. Keep building — future engineer in progress."_  
-
+### ✨ _"Stay curious. Stay consistent. Keep building — future engineer loading..."_  
