@@ -104,8 +104,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yuvraj2005-commits&style=flat-square&color=white" alt="Profile Views"/>
+</p>
 
-![Views](https://visitcount.itsvg.in/api?id=Yuvraj2005-commits&label=Profile%20Views&color=6&icon=5&pretty=true)
 
 
 ---
