@@ -105,9 +105,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Yuvraj2005-commits&icon=0&color=6" />
-</p>
+![Views](https://visitcount.itsvg.in/api?id=Yuvraj2005-commits&label=Profile%20Views&color=6&icon=5&pretty=true)
+
 
 ---
 
