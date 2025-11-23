@@ -2,17 +2,17 @@
 
 ---
 
-<h2 align="left">👨‍💻 About Me</h2>
+## 👨‍💻 About Me  
 
-💡 Currently exploring **Full Stack Web Development & Artificial Intelligence**  
-📚 Learning **React, Node.js, MongoDB, Data Structures & Machine Learning**  
-🤖 Trying hands on **Python, Neural Networks, and basic ML Algorithms**  
-💬 Ask me about **Web Dev, MERN Stack, ML basics, and Project Structuring**  
-🌙 Fun Fact: **I write my best code after midnight.**  
+💡 Passionate about **Web Development, IoT, and Artificial Intelligence**  
+📚 Currently learning **React, Node.js, MongoDB, and Machine Learning**  
+🧠 Exploring **Neural Networks, Linear Algebra, and ML concepts**  
+💬 Ask me about **Web Dev, MERN Stack, ML basics, and Project Ideas**  
+🌙 Fun Fact — *I debug faster after midnight.*  
 
 ---
 
-<h2 align="left">🌐 Connect with Me</h2>
+## 🌐 Connect with Me  
 
 <p align="left">
 <a href="https://www.instagram.com/yuvraj___prakash"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" width="130"></a>
@@ -22,34 +22,87 @@
 
 ---
 
-<h2 align="left">🛠 Tech Stack</h2>
+## 🛠 Tech Stack  
 
 <div align="left">
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Languages:**  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge)
 
-![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**Frontend:**  
+![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+![React](https://img.shields.io/badge/React-292929?style=for-the-badge&logo=react)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+**Backend & Tools:**  
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge)
+
+**AI / ML Libraries:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
 
 </div>
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔐 **Login Auth System** | Secure authentication with JWT and hashing | Node.js, Express, MongoDB |
+| 📦 **CRUD Web App** | Create, update, delete items with database storage | React, MongoDB, Express |
+| 🧠 **ML Model (Learning Phase)** | Simple classification/regression experiments | Python, Pandas, Scikit-Learn |
+
+*More coming soon... 🚧*
+
+---
+
+## 🧠 AI / ML Learning Roadmap (Current Progress)
+
+📌 **Checklist:**  
+
+- [x] Python Basics  
+- [x] Numpy / Pandas  
+- [ ] Regression & Classification  
+- [ ] Neural Networks  
+- [ ] Deep Learning (TensorFlow/PyTorch)  
+- [ ] Deploy ML Models  
+
+📍 Goal: **Train and deploy my first working ML model before 2026 🎯**
+
+---
+
+## 🎯 2025 Goals
+
+- 🏗 Build 10+ real-world projects  
+- 🤝 Collaborate on Open Source  
+- 🎓 Complete ML & DSA Roadmap  
+- 🚀 Deploy full-stack web applications  
+- 🤖 Build at least one AI-powered project  
+
+---
+
+## 📜 Certificates _(Coming Soon)_
+
+🎓 Web Development  
+🎓 AI / ML Foundation  
+🎓 DSA Learning  
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj2005-commits&theme=tokyonight&show_icons=true&hide_border=true" height="170" />
@@ -68,5 +121,5 @@
 
 ---
 
-### ✨ _"Stay curious. Stay consistent. Keep building — future engineer in progress."_
+### ✨ _"Stay curious. Stay consistent. Keep building — future engineer in progress."_  
 
