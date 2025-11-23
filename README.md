@@ -1,12 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=40&duration=3000&pause=1500&color=00E5FF&center=true&vCenter=true&width=900&height=100&lines=Hey+there!+I'm+Yuvraj+Prakash+👋;Full+Stack+Developer+%7C+IoT+%7C+AI+Enthusiast+🚀;Learning.+Building.+Improving.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=40&duration=3000&pause=1500&color=00E5FF&center=true&vCenter=true&width=900&height=100&lines=Hey+there!+I'm+Yuvraj+Prakash+👋;Full+Stack+Developer+%7C+AI%2FML+Learner+🤖;Learning.+Building.+Improving.)](https://git.io/typing-svg)
 
 ---
 
 <h2 align="left">👨‍💻 About Me</h2>
 
-💡 I’m currently learning and building projects in **Full Stack Web Development**  
-📚 Exploring **React, Node.js, MongoDB, and DSA**  
-💬 Ask me about **Web Dev, MERN Stack, and Project Structuring**  
+💡 Currently exploring **Full Stack Web Development & Artificial Intelligence**  
+📚 Learning **React, Node.js, MongoDB, Data Structures & Machine Learning**  
+🤖 Trying hands on **Python, Neural Networks, and basic ML Algorithms**  
+💬 Ask me about **Web Dev, MERN Stack, ML basics, and Project Structuring**  
 🌙 Fun Fact: **I write my best code after midnight.**  
 
 ---
@@ -38,8 +39,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -64,5 +68,5 @@
 
 ---
 
-### ✨ _"Stay curious. Stay consistent. Keep building."_
+### ✨ _"Stay curious. Stay consistent. Keep building — future engineer in progress."_
 
