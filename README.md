@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img align="right" width="380" src="https://raw.githubusercontent.com/Yuvraj2005-commits/Yuvraj2005-commits/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 ## 🧑‍💻 `whoami`
 
@@ -108,14 +108,14 @@ $ cat about_me.json
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║               🤖  AI / ML LEARNING JOURNEY                  ║
+║               🤖  AI / ML LEARNING JOURNEY                    ║
 ╠══════════════════════════════════════════════════════════════╣
-║  Python Basics          ████████████████████  100%  ✅      ║
-║  NumPy / Pandas         ████████████████████  100%  ✅      ║
-║  Regression & Class.    ████████░░░░░░░░░░░░   40%  🔄      ║
-║  Neural Networks        ░░░░░░░░░░░░░░░░░░░░    0%  ⏳      ║
-║  TensorFlow / PyTorch   ░░░░░░░░░░░░░░░░░░░░    0%  ⏳      ║
-║  ML Deployment          ░░░░░░░░░░░░░░░░░░░░    0%  ⏳      ║
+║  Python Basics          ████████████████████  100%  ✅        ║
+║  NumPy / Pandas         ████████████████████  100%  ✅        ║
+║  Regression & Class.    ████████░░░░░░░░░░░░   40%  🔄        ║
+║  Neural Networks        ░░░░░░░░░░░░░░░░░░░░    0%  ⏳        ║
+║  TensorFlow / PyTorch   ░░░░░░░░░░░░░░░░░░░░    0%  ⏳        ║
+║  ML Deployment          ░░░░░░░░░░░░░░░░░░░░    0%  ⏳        ║
 ╚══════════════════════════════════════════════════════════════╝
          🎯 Goal: Deploy first ML model by 2026
 ```
@@ -130,13 +130,13 @@ $ cat about_me.json
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  🏆  THE COMPLETE FULL-STACK WEB DEVELOPMENT BOOTCAMP           │
-│  ─────────────────────────────────────────────────────────────  │
-│  🏛  Platform  : Udemy                                          │
-│  👨‍🏫  Instructor: Dr. Angela Yu                                  │
-│  📅  Completed : August 11, 2025                                │
-│  ⏱  Duration  : 61.5 Hours                                     │
-│  ✅  Status    : CERTIFIED                                       │
+│  🏆  THE COMPLETE FULL-STACK WEB DEVELOPMENT BOOTCAMP            │
+│  ───────────────────────────────────────────────────────────    │
+│  🏛  Platform   : Udemy                                         │
+│  👨‍🏫  Instructor : Dr. Angela Yu                                 │
+│  📅  Completed  : August 11, 2025                                │
+│  ⏱  Duration   : 61.5 Hours                                     │
+│  ✅  Status     : CERTIFIED                                      │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -152,7 +152,7 @@ $ cat about_me.json
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Yuvraj2005-commits&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=Yuvraj2005-commits&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
 <div align="center">
